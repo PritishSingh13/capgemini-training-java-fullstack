@@ -1,0 +1,7 @@
+# Ignore all class files
+*.class
+
+# Ignore any temporary files
+*.log
+*.tmp
+*.bak
