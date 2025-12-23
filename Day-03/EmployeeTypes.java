@@ -1,3 +1,6 @@
+//Develop a Java program using nested switch-case to determine employee roles and designations based on department selection.
+
+
 import java.util.Scanner;
 
 public class SwitchRole {
