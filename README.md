@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&duration=3000&pause=1000&color=0070AD&center=true&vCenter=true&width=750&lines=Capgemini+Training+%E2%80%93+Java+Full+Stack;Daily+Practice+%7C+Assessments+%7C+Progress+Tracking" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Training-Capgemini-0070AD?style=for-the-badge"/>
-</p>
 
 ---
 
