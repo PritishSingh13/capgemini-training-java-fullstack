@@ -1,5 +1,5 @@
 <p align="center">
-<img src="[https://readme-typing-svg.demolab.com?font=Montserrat&size=28&duration=3000&pause=1000&color=0070AD&center=true&vCenter=true&width=750&lines=Capgemini+Training+–+Java+Full+Stack;Daily+Practice+|+Assessments+|+Progress+Tracking](https://readme-typing-svg.demolab.com/?font=Montserrat&size=28&duration=3000&pause=1000&color=0070AD&center=true&vCenter=true&width=750&lines=Capgemini+Training+%E2%80%93+Java+Full+Stack;Daily+Practice+%7C+Assessments+%7C+Progress+Tracking)" />
+<img src="https://readme-typing-svg.demolab.com/?font=Montserrat&size=28&duration=3000&pause=1000&color=0070AD&center=true&vCenter=true&width=750&lines=Capgemini+Training+%E2%80%93+Java+Full+Stack;Daily+Practice+%7C+Assessments+%7C+Progress+Tracking" />
 </p>
 
 ---
@@ -10,9 +10,9 @@ This repository is created to **maintain my daily practice programs and assessme
 
 All code written during the training program is **organized day-wise**, making it easy to track:
 
-- Learning progress
-- Concepts covered
-- Daily practice and assessments
+- Learning progress  
+- Concepts covered  
+- Daily practice and assessments  
 
 ---
 
@@ -28,30 +28,30 @@ All code written during the training program is **organized day-wise**, making i
 
 ## 🛠️ Technologies Used
 
-- Core Java
-- Java Development Kit (JDK)
-- Git & GitHub
-- Sublime Text
+- Core Java  
+- Java Development Kit (JDK)  
+- Git & GitHub  
+- Sublime Text  
 - Command Line (Windows)
 
 ---
 
 ## 📁 Coding & Repository Standards
 
-- Only `.java` source files are committed
-- Compiled `.class` files are ignored using `.gitignore`
-- Clear and meaningful **folder naming**
-- Proper and descriptive **commit messages**
+- Only `.java` source files are committed  
+- Compiled `.class` files are ignored using `.gitignore`  
+- Clear and meaningful **folder naming**  
+- Proper and descriptive **commit messages**  
 - Code written strictly as per **training and assessment guidelines**
 
 ---
 
 ## 🔄 Daily Workflow
 
-1. Practice and write code locally
-2. Organize files inside the respective `Day-XX` folder
-3. Commit changes with a meaningful message
-4. Push updates to GitHub daily
+1. Practice and write code locally  
+2. Organize files inside the respective `Day-XX` folder  
+3. Commit changes with a meaningful message  
+4. Push updates to GitHub daily  
 
 ---
 
@@ -74,5 +74,5 @@ Capgemini Trainee – Java Full Stack
 ---
 
 <p align="center">
-<img src="[https://img.shields.io/badge/Dream Company-Capgemini-0070AD?style=for-the-badge](https://img.shields.io/badge/Dream%20Company-Capgemini-0070AD?style=for-the-badge)" />
+<img src="https://img.shields.io/badge/Dream%20Company-Capgemini-0070AD?style=for-the-badge" />
 </p>
