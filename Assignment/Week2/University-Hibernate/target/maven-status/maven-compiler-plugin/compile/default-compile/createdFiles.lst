@@ -1,0 +1,5 @@
+org\cap\App.class
+org\cap\entity\Student.class
+org\cap\entity\Course.class
+org\cap\entity\Idcard.class
+org\cap\entity\Department.class
