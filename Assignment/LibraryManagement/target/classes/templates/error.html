@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Error</title>
+    <link rel="stylesheet" th:href="@{/style.css}"/>
+</head>
+<body>
+<div class="container">
+    <h2>Oops! Something went wrong</h2>
+    <div class="error">[[${errorMessage}]]</div>
+    <div class="nav-buttons">
+        <a href="/books" class="btn btn-primary btn-large">← Back to Books</a>
+        <a href="/books/dashboard" class="btn btn-secondary btn-large">← Dashboard</a>
+    </div>
+</div>
+</body>
+</html>

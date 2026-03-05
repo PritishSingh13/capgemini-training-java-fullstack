@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Book Details</title>
+    <link rel="stylesheet" th:href="@{/style.css}"/>
+</head>
+<body>
+<div class="container book-card">
+    <h2>Book Details</h2>
+    <div class="book-details">
+        <div class="book-field">
+            <label>ID:</label>
+            <span th:text="${book.id}"></span>
+        </div>
+        <div class="book-field">
+            <label>Title:</label>
+            <span th:text="${book.title}"></span>
+        </div>
+        <div class="book-field">
+            <label>Author:</label>
+            <span th:text="${book.author}"></span>
+        </div>
+        <div class="book-field">
+            <label>Price:</label>
+            $<span th:text="${book.price}"></span>
+        </div>
+    </div>
+    <div class="nav-buttons">
+        <a href="/books" class="btn btn-primary btn-large">← Back to All Books</a>
+    </div>
+</div>
+</body>
+</html>

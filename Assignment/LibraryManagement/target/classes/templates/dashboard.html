@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Library Dashboard</title>
+    <link rel="stylesheet" th:href="@{/style.css}"/>
+</head>
+<body>
+<div class="container dashboard">
+    <h2>📚 Library Management System</h2>
+    <div class="nav-buttons">
+        <a href="/books/add" class="btn btn-success btn-large">➕ Add New Book</a>
+        <a href="/books" class="btn btn-primary btn-large">📖 View Books (<span class="count" th:text="${totalBooks ?: 0}"></span>)</a>
+    </div>
+    <p class="welcome">✨ Welcome to the modern library experience!</p>
+</div>
+</body>
+</html>
