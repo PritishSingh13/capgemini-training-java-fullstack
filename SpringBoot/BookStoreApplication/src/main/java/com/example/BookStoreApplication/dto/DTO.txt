@@ -1,4 +1,0 @@
-
-DTO- data transfer objects
-- A DTO is just a plain Java class used to carry data between layers (like from your backend to frontend, or between services).
-- It usually contains only the fields you want to expose — not everything from your entity.
