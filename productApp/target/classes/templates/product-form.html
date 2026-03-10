@@ -1,0 +1,21 @@
+<form th:action="@{/products/save}" th:object="${product}" method="post" xmlns:th="http://www.w3.org/1999/xhtml">
+
+    <input type="hidden" th:field="*{id}" />
+
+    <label>Name:</label>
+    <input type="text" th:field="*{name}" />
+    <p th:if="${#fields.hasErrors('name')}"
+       th:errors="*{name}" style="color:red"></p>
+
+    <label>Price:</label>
+    <input type="number" th:field="*{price}" />
+    <p th:if="${#fields.hasErrors('price')}"
+       th:errors="*{price}" style="color:red"></p>
+
+    <label>Quantity:</label>
+    <input type="number" th:field="*{quantity}" />
+    <p th:if="${#fields.hasErrors('quantity')}"
+       th:errors="*{quantity}" style="color:red"></p>
+
+    <button type="submit">Save</button>
+</form>
